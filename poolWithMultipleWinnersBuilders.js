@@ -85,7 +85,7 @@ module.exports = {
   97: [
     // 3.3.7
     {
-      address: '0x6d5C237375F06e04A70dbde141608E115f793000',
+      address: '0x151cb7FE96FbA1f32a8451E6A8F02cDb95053DEF',
       blockNumber: 1
     }
   ],
